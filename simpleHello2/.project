@@ -24,7 +24,7 @@
 		<link>
 			<name>.circleci</name>
 			<type>2</type>
-			<locationURI>copy_PARENT/.circleci</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/.circleci</locationURI>
 		</link>
 	</linkedResources>
 	<variableList>
